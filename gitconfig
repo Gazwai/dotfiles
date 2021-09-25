@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = gary.yau@hotmail.com
+	name = Gary Yau
